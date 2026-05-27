@@ -87,6 +87,6 @@ class LessonScreen(Screen):
 
     def on_mount(self) -> None:
         if self._lesson_id:
-            self.app.replace_screen(LessonPlayerScreen(lesson_id=self._lesson_id))
+            self.app.switch_screen(LessonPlayerScreen(lesson_id=self._lesson_id))
         else:
-            self.app.replace_screen(LessonListScreen())
+            self.app.switch_screen(LessonListScreen())
