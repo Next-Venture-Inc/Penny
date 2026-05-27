@@ -1,0 +1,140 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "11-private-equity"
+title: "Private equity — buying whole companies to make them better"
+description: "How PE firms buy companies, fix them, and sell them for profit."
+estimated_minutes: 16
+tags: ["private equity", "pe", "buyout", "advanced"]
+
+steps:
+  - type: concept
+    content: |
+      Private equity (PE) is different from venture capital.
+      VC bets on small, risky startups that might become huge.
+      PE buys companies that already exist and already make money.
+
+      Think of it like house flipping — but for businesses.
+
+      Buy a boring but profitable company.
+      Fix it, cut costs, grow it.
+      Sell it 3–7 years later for much more than you paid.
+
+  - type: concept
+    content: |
+      The most common PE move is called a buyout.
+
+      A PE firm sees a company worth $200M.
+      They don't have $200M cash lying around.
+      So they use a clever trick:
+
+      They put in $60M of their own money.
+      They borrow the other $140M from a bank.
+      They buy the whole company for $200M.
+
+      Now the company's profits have to pay back the bank loan.
+      If they can do that AND grow the company —
+      they might sell it for $400M in 5 years.
+
+      Their $60M became $260M. That's a 4x return.
+
+      This trick is called a "leveraged buyout" (LBO).
+      Leverage just means using borrowed money to make bigger bets.
+
+  - type: concept
+    content: |
+      What PE firms actually do to make companies more valuable:
+
+      1. Cut costs — fire middle managers, close underperforming offices,
+         renegotiate supplier contracts.
+
+      2. Grow revenue — push into new markets, launch new products,
+         make the sales team bigger.
+
+      3. Buy more companies — acquire competitors and merge them together.
+         Bigger company = easier to sell for a premium.
+
+      4. Improve operations — bring in professional managers,
+         install better software, fix broken processes.
+
+  - type: example
+    content: |
+      Real-world example (simplified):
+
+      In 2013, a PE firm bought Heinz (ketchup company) for $28B.
+      They cut costs aggressively — fired managers, closed factories.
+      In 2015 they merged it with Kraft to create Kraft Heinz.
+
+      The PE firm's share of that deal was worth many billions more
+      than what they originally paid.
+
+      Critics say PE firms cut too deep and hurt workers.
+      Supporters say they save failing companies and create efficiency.
+      This debate is real — there's no single right answer.
+
+  - type: concept
+    content: |
+      How is PE different from buying stocks?
+
+      Stocks (public markets):
+      - Anyone can buy
+      - You can sell anytime
+      - You own a tiny piece
+      - Company stays independent
+
+      Private equity:
+      - Only big institutions and accredited investors
+      - Your money is locked for 5–10 years
+      - PE firm owns a controlling piece or the whole company
+      - They actively run or change the company
+
+  - type: callout
+    content: |
+      The 3 ways PE firms exit (get their money back):
+
+      1. Sell to another company (strategic acquisition)
+         — most common, often highest price
+
+      2. IPO — take the company public on the stock market
+         — takes longest but can be very profitable
+
+      3. Sell to another PE firm ("secondary buyout")
+         — quick exit, but leaves some value on the table
+
+      Average hold time: 5 to 7 years before exit.
+
+quiz:
+  - question: "What kind of companies do PE firms usually buy?"
+    options:
+      - "Tiny startups with no revenue"
+      - "Only tech companies"
+      - "Existing, already-profitable companies"
+      - "Only companies that are losing money"
+    correct: 2
+    explanation: "PE buys companies that already exist and already make money.
+      They're not betting on unproven ideas like VCs are.
+      They look for stable, profitable businesses they can improve and sell."
+
+  - question: "What is a leveraged buyout (LBO)?"
+    options:
+      - "Buying a company using only your own cash"
+      - "Buying a company using mostly borrowed money"
+      - "Borrowing money from the company you're buying"
+      - "A type of stock market trade"
+    correct: 1
+    explanation: "In an LBO, the PE firm uses mostly borrowed money (debt)
+      to buy a company. This lets them control a large company with
+      a smaller amount of their own cash. The company's own profits
+      then pay back the debt over time."
+
+  - question: "How long is money typically locked up in a PE fund?"
+    options:
+      - "30 days"
+      - "1 year"
+      - "5 to 7 years"
+      - "Forever"
+    correct: 2
+    explanation: "PE investments are not easy to get out of — you can't just sell when
+      you want. The typical hold period before an exit is 5 to 7 years.
+      This is why PE is only for investors who won't need that money anytime soon."

@@ -1,0 +1,113 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "05-stocks-fundamentals"
+title: "Picking stocks — what to look for"
+description: "How to read the basics of a company before deciding to invest."
+estimated_minutes: 15
+tags: ["stocks", "analysis", "fundamentals", "intermediate"]
+
+steps:
+  - type: concept
+    content: |
+      When you buy a stock, you're buying part of a real business.
+      So ask yourself: is this a good business?
+
+      You wouldn't buy a sandwich shop without checking if it makes money.
+      Same idea here. Let's look at the key things to check.
+
+  - type: concept
+    content: |
+      P/E ratio (price-to-earnings ratio) — this tells you how expensive a stock is.
+
+      If a stock costs $50 and the company earns $5 per share per year,
+      the P/E ratio is 10. You're paying $10 for every $1 of earnings.
+
+      Lower P/E = cheaper. Higher P/E = more expensive.
+
+      A P/E of 15 is about "average" for most industries.
+      Tech companies often have P/Es of 30, 50, or even 100 —
+      because investors expect them to grow fast.
+
+      A very high P/E isn't always bad. A very low P/E isn't always good.
+      It depends on what you expect the company to do in the future.
+
+  - type: concept
+    content: |
+      Revenue and profit — two totally different things.
+
+      Revenue: total money coming in from sales.
+      Profit: what's left after paying all the bills.
+
+      A company can have $10 billion in revenue and still lose money.
+      (This describes many tech startups.)
+
+      For a mature, stable company, profit matters most.
+      For a fast-growing startup, revenue growth can matter more —
+      if losses are temporary while they scale up.
+
+  - type: concept
+    content: |
+      A share of profits the company pays you is called a dividend.
+      Some companies pay their shareholders a regular cash payment —
+      called a dividend — just for owning their stock.
+
+      Example: Canadian bank stocks like TD or RBC often pay 4–5% in dividends per year.
+      If you own $10,000 of TD stock, you might get $400–$500 per year
+      in cash deposited into your account — just for holding.
+
+      Not all companies pay dividends.
+      Growth companies like Tesla or Amazon reinvest all profits to grow faster.
+
+  - type: callout
+    content: |
+      3 questions before buying any individual stock:
+
+      1. Do I understand what this company actually does?
+         If you can't explain the business in one sentence, move on.
+
+      2. Is the company making money, or at least growing fast?
+         Look at revenue growth and profit margins.
+
+      3. Is the price reasonable for what I'm getting?
+         Compare the P/E ratio to similar companies.
+
+      If you can't answer all 3, buy an ETF instead.
+      There is no shame in index funds — even Warren Buffett recommends them.
+
+quiz:
+  - question: "A stock costs $100 and the company earns $5 per share per year.
+      What is the P/E ratio?"
+    options:
+      - "5"
+      - "500"
+      - "20"
+      - "0.05"
+    correct: 2
+    explanation: "P/E = Price ÷ Earnings = $100 ÷ $5 = 20.
+      You're paying $20 for every $1 of annual profit the company makes.
+      Average P/Es are around 15–20 for stable companies."
+
+  - question: "A company has $5 billion in revenue but loses $200 million per year.
+      Is it profitable?"
+    options:
+      - "Yes — it has lots of revenue"
+      - "No — revenue and profit are different. It spends more than it earns."
+      - "Yes — $5 billion is always profitable"
+      - "Unknown — you need to ask the CEO"
+    correct: 1
+    explanation: "Revenue is money coming IN. Profit is what's left after expenses.
+      If a company spends more than it earns, it's losing money — even if revenue is huge.
+      Many fast-growing startups operate at a loss for years before becoming profitable."
+
+  - question: "What is a dividend?"
+    options:
+      - "A fee you pay to buy a stock"
+      - "A type of penalty for selling early"
+      - "A regular cash payment a company pays you just for owning their stock"
+      - "A discount on future stock purchases"
+    correct: 2
+    explanation: "Some companies pay dividends — regular cash payments to shareholders.
+      It's the company sharing its profits with you. Canadian bank stocks are well-known
+      for steady, reliable dividends."

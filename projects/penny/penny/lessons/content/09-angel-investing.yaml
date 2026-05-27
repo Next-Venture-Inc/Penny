@@ -1,0 +1,125 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "09-angel-investing"
+title: "Angel investing — betting on people with big dreams"
+description: "What it means to be the first person to believe in a startup."
+estimated_minutes: 15
+tags: ["angel", "startup", "private", "advanced"]
+
+steps:
+  - type: concept
+    content: |
+      Imagine your friend has an idea for an app.
+      She needs $50,000 to build it.
+      The bank won't help — the idea is too new and risky.
+      So she asks YOU.
+
+      You give her $50,000.
+      In return, she gives you 10% of her company.
+
+      That is angel investing.
+      You are the "angel" — the first believer with real money.
+
+  - type: concept
+    content: |
+      Most startups fail. That's just the truth.
+      Out of 10 angel investments, you might lose money on 7 of them.
+      But if 1 of those 10 becomes the next Shopify?
+
+      Your $50,000 could turn into $5,000,000.
+      That one win pays for ALL the losses and then some.
+
+      This is why angels don't put all their money into one startup.
+      They spread it across many bets.
+
+  - type: concept
+    content: |
+      How do you get your money back?
+      You can't just sell your piece whenever you want.
+      This is the big difference from buying stocks.
+
+      You get paid when an "exit" happens:
+      1. The company gets bought by a bigger company
+      2. The company goes public (IPO) — listed on a stock market
+      3. Another investor buys your piece from you (rare)
+
+      This can take 5 to 10 years. Sometimes more.
+      Angel investing is a long game.
+
+  - type: example
+    content: |
+      Real example (simplified):
+
+      In 2004, Peter Thiel gave Mark Zuckerberg $500,000
+      for 10% of Facebook.
+
+      When Facebook went public in 2012,
+      that 10% was worth about $1 billion.
+
+      He turned $500,000 into $1,000,000,000.
+      That is a 2,000x return. In 8 years.
+
+      Not all angel investments work out like this.
+      Most don't. But this is the dream.
+
+  - type: concept
+    content: |
+      What angels look for (in plain English):
+
+      1. The team — Do these people have what it takes?
+         Smart, hungry, and won't quit when things get hard?
+
+      2. The problem — Is this a real problem people will pay to fix?
+         Not just a cool idea, but something people NEED?
+
+      3. The market — How many people have this problem?
+         Small market = small company. Big market = big company.
+
+      4. The "why now" — Why is this the right moment?
+         Did something change in the world that makes this possible now?
+
+  - type: callout
+    content: |
+      In Canada, angel investing is regulated.
+      You generally need to be an "accredited investor" to participate.
+      That means you earn more than $200,000/year OR
+      have more than $1 million in financial investments (not counting your house).
+
+      Angel networks like the National Angel Capital Organization (NACO)
+      connect startups with Canadian angel investors.
+
+quiz:
+  - question: "What do you get when you angel invest in a company?"
+    options:
+      - "A loan that gets paid back with interest"
+      - "A piece of ownership in the company"
+      - "A guaranteed monthly payment"
+      - "Free products from the company"
+    correct: 1
+    explanation: "Angel investing means you own a piece of the company.
+      You're not lending money — you're buying a slice. If the company
+      grows, your slice becomes more valuable."
+
+  - question: "Why do angels invest in many startups instead of just one?"
+    options:
+      - "It's required by law"
+      - "To confuse the companies"
+      - "Most startups fail — spreading bets means one big win covers all losses"
+      - "It's cheaper to buy many"
+    correct: 2
+    explanation: "Most startups fail. If you put all your angel money in one
+      startup and it fails, you lose everything. By investing in many,
+      you only need one to become huge to make your whole investment profitable."
+
+  - question: "How does an angel investor usually get their money back?"
+    options:
+      - "Monthly dividend payments"
+      - "The company pays them back like a loan"
+      - "When the company is bought or goes public"
+      - "After exactly 2 years"
+    correct: 2
+    explanation: "Angels get paid at an 'exit' — when the company is
+      bought by another company, or goes public on a stock market (IPO).
+      This can take many years. There are no regular payments like a loan."

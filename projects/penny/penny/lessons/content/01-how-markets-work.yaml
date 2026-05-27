@@ -1,0 +1,123 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "01-how-markets-work"
+title: "How markets work — the basics"
+description: "What a stock market actually is, and why prices go up and down."
+estimated_minutes: 10
+tags: ["fundamentals", "beginner", "markets"]
+
+steps:
+  - type: concept
+    content: |
+      A stock market is just a place where people buy and sell tiny pieces of companies.
+
+      Think of it like a giant swap meet.
+      Millions of people show up every day to trade pieces of companies.
+      Some want to buy. Some want to sell.
+      When they agree on a price, a trade happens.
+
+      That's it. That's the whole thing.
+
+  - type: concept
+    content: |
+      When a company wants to raise money, it can sell pieces of itself to the public.
+      Each piece is called a share (or a stock).
+
+      Imagine a lemonade stand worth $100.
+      The owner splits it into 100 shares, each worth $1.
+      You buy 10 shares for $10. You now own 10% of the lemonade stand.
+
+      If the lemonade stand grows to be worth $200,
+      your 10 shares are now worth $20.
+      You made $10 without doing anything.
+
+  - type: concept
+    content: |
+      Why do prices go up and down?
+
+      Simple: because of supply and demand.
+
+      If lots of people want to buy a stock and few people want to sell it,
+      the price goes up. Sellers can charge more because buyers are competing.
+
+      If lots of people want to sell and few want to buy,
+      the price goes down. Buyers can pay less because sellers are competing.
+
+      News, earnings reports, and the economy all affect how many people
+      want to buy or sell — which is why prices move every day.
+
+  - type: example
+    content: |
+      Real example: Apple (AAPL)
+
+      In 2003, one Apple share cost about $1.
+      Today (2025), one Apple share costs around $200.
+
+      If you had bought $1,000 worth of Apple in 2003
+      (that's 1,000 shares at $1 each),
+      today those shares would be worth about $200,000.
+
+      You didn't do any work. The company grew.
+      Your piece of the company grew with it.
+
+  - type: callout
+    content: |
+      Two main stock markets in Canada and the USA:
+
+      TSX — Toronto Stock Exchange. This is where Canadian companies trade.
+      Ticker example: Shopify trades as SHOP.TO
+
+      NYSE / NASDAQ — American exchanges. This is where US companies trade.
+      Ticker example: Apple trades as AAPL
+
+      You can buy stocks on both from a Canadian brokerage.
+
+  - type: concept
+    content: |
+      One more important thing: the stock market goes up AND down.
+
+      In 2008, the market dropped about 50%. Scary.
+      By 2013, it had fully recovered and was higher than before.
+
+      In 2020, the market dropped 34% in one month (COVID).
+      By the end of that same year, it was at a new all-time high.
+
+      Short term: the market is unpredictable and scary.
+      Long term: the market has always recovered and grown.
+
+      The people who panic and sell during drops usually lose money.
+      The people who stay calm and hold on usually do fine.
+
+quiz:
+  - question: "What do you actually own when you buy a stock?"
+    options:
+      - "A loan to the company that pays you back with interest"
+      - "A tiny piece of ownership in the company"
+      - "A guarantee that the company will pay you monthly"
+      - "A gift card to spend at the company"
+    correct: 1
+    explanation: "A stock is a piece of ownership. If the company grows and becomes more valuable,
+      your piece becomes more valuable too. You're not lending money — you're buying in."
+
+  - question: "Why does a stock price go up?"
+    options:
+      - "The government sets prices higher every year"
+      - "The company prints more shares"
+      - "More people want to buy it than sell it, so buyers bid up the price"
+      - "Stock prices are fixed and don't change"
+    correct: 2
+    explanation: "Prices move based on supply and demand. When more people want to buy a stock
+      than sell it, the price rises because buyers compete with each other."
+
+  - question: "The stock market dropped 30% last year. What should a long-term investor do?"
+    options:
+      - "Sell everything immediately to avoid more losses"
+      - "Stay calm — history shows markets recover and grow over time"
+      - "Put all their money into gold"
+      - "Stop investing forever"
+    correct: 1
+    explanation: "Every major market drop in history has eventually recovered.
+      Selling during a drop locks in your loss. Staying invested lets you
+      benefit when prices bounce back — and they always have, historically."

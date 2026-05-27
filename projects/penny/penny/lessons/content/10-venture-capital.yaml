@@ -1,0 +1,129 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "10-venture-capital"
+title: "Venture capital — a fund that bets on the future"
+description: "How VC funds work, who runs them, and how they make money."
+estimated_minutes: 18
+tags: ["vc", "venture capital", "startup", "fund", "advanced"]
+
+steps:
+  - type: concept
+    content: |
+      Imagine 10 rich people each put $10 million into a shared pot.
+      That pot has $100 million total.
+
+      Two people are hired to manage this pot.
+      Their job: find the best startups and invest the money.
+
+      This is a Venture Capital fund.
+      The pot of money = the fund.
+      The 10 rich people = Limited Partners (LPs). They put in the money.
+      The 2 managers = General Partners (GPs). They make the decisions.
+
+  - type: concept
+    content: |
+      The managers get paid two ways:
+
+      1. Management fee — usually 2% of the fund per year.
+         On a $100M fund, that's $2M/year just to run the operation.
+         This covers salaries, office, travel, etc.
+
+      2. Carried interest (called "carry") — usually 20% of the profits.
+         If the fund makes $200M profit, the managers keep $40M.
+         The other $160M goes back to the LPs.
+
+      This is why VCs work so hard to find the best startups.
+      Their real payday is that 20% of profits.
+
+  - type: concept
+    content: |
+      VCs invest in stages. Think of it like levels of a video game.
+
+      Pre-seed — the very beginning. Just an idea. Maybe $100K–$500K.
+      Seed — building the first version. Maybe $500K–$2M.
+      Series A — it's working, time to grow. Maybe $5M–$15M.
+      Series B — growing fast, need more fuel. Maybe $15M–$50M.
+      Series C and beyond — going big. $50M+.
+
+      Each round, the startup gives away more ownership.
+      Each round, the company is worth more (hopefully).
+
+  - type: example
+    content: |
+      How a VC fund makes its returns (real math, simple version):
+
+      Fund invests $1M each into 20 startups = $20M deployed.
+
+      Results after 10 years:
+      - 10 startups go to zero. Loss: $10M.
+      - 7 startups return 1–3x. Gain: about $14M.
+      - 2 startups return 10x. Gain: $20M.
+      - 1 startup returns 100x. Gain: $100M.
+
+      Total back: $134M on $20M invested.
+      That's a 6.7x return. Most of it from ONE company.
+
+      This is why VCs obsess over finding "unicorns" —
+      companies that become worth $1 billion or more.
+      One unicorn makes the whole fund.
+
+  - type: concept
+    content: |
+      Famous Canadian VC firms (so you know the landscape):
+
+      OMERS Ventures — backs Canadian tech companies
+      BDC Capital — government-backed, supports Canadian startups
+      Inovia Capital — invested in Lightspeed, Hopper, Wealthsimple
+      Real Ventures — Montreal-focused, early stage
+
+      Famous global ones you've heard of:
+      Sequoia — backed Apple, Google, WhatsApp
+      a16z (Andreessen Horowitz) — backed Facebook, Airbnb, Coinbase
+      Y Combinator — backed Dropbox, Airbnb, Stripe (also an accelerator)
+
+  - type: callout
+    content: |
+      Can you invest in a VC fund?
+      Normally, no. VC funds are only open to institutional investors
+      and accredited investors — usually minimum $1M to get in.
+
+      BUT — you can invest indirectly:
+      - Buy stock in publicly traded companies that act like VCs (e.g. Berkshire Hathaway)
+      - Equity crowdfunding platforms (FrontFundr in Canada)
+
+quiz:
+  - question: "In a VC fund, what is a Limited Partner (LP)?"
+    options:
+      - "The person who finds startups to invest in"
+      - "The investor who puts money into the fund but doesn't make decisions"
+      - "The startup receiving the investment"
+      - "The lawyer who writes the contracts"
+    correct: 1
+    explanation: "LPs put money into the fund — they're the source of money.
+      But they don't pick which startups to invest in. That's the GPs' job.
+      Think of LPs as silent investors, and GPs as the active managers."
+
+  - question: "A VC fund makes $300M profit on a $100M fund.
+      The carry is 20%. How much do the fund managers (GPs) keep?"
+    options:
+      - "$20M"
+      - "$60M"
+      - "$100M"
+      - "$300M"
+    correct: 1
+    explanation: "20% of $300M profit = $60M goes to the GPs as their
+      performance fee ('carry'). The remaining $240M goes back to the LPs
+      who put in the original money."
+
+  - question: "Why does one big startup win matter so much to a VC fund?"
+    options:
+      - "It doesn't — funds depend on consistent small wins"
+      - "Because VCs only invest in one startup at a time"
+      - "One 100x winner can cover all the losses and make the whole fund profitable"
+      - "Regulations require one main investment"
+    correct: 2
+    explanation: "Most VC investments fail or return only small amounts.
+      But one startup that returns 100x or more pays for every loss and
+      still leaves huge profit. Returns are dominated by the top 1–2 winners."

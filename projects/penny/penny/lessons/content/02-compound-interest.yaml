@@ -1,0 +1,109 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "02-compound-interest"
+title: "Compound interest — the 8th wonder"
+description: "How money makes money, and why starting early is everything."
+estimated_minutes: 12
+tags: ["fundamentals", "math", "long-term"]
+
+steps:
+  - type: concept
+    content: |
+      Compound interest means you earn returns on your returns.
+      Not just on your original money — on ALL the money that's piled up so far.
+
+      Simple interest (the boring kind):
+        You put in $1,000 at 10% per year.
+        Year 1: earn $100. Total: $1,100.
+        Year 2: earn $100. Total: $1,200.
+        (Always just 10% of the original $1,000)
+
+      Compound interest (the powerful kind):
+        Year 1: earn $100. Total: $1,100.
+        Year 2: earn $110. Total: $1,210.
+        (Now 10% of $1,100 — because last year's interest joined the team)
+
+      Same rate. Totally different result over time.
+
+  - type: example
+    content: |
+      Warren Buffett made 99% of his wealth after age 50.
+
+      Not because he got smarter at 50.
+      Not because he worked harder.
+
+      Because compound interest needed 40 years of runway.
+      He started investing at 11. By 50, the snowball was enormous.
+      Then it just kept rolling — faster and faster.
+
+      He's worth over $100 billion. He earned most of it after age 65.
+      That is compound interest in action.
+
+  - type: calculator
+    content: "Try it yourself — enter numbers below and see the magic."
+    calculator: "compound"
+
+  - type: callout
+    content: |
+      The Rule of 72:
+      Divide 72 by your annual return to estimate how long it takes to double your money.
+
+      At 6% return → doubles every 12 years (72 ÷ 6 = 12)
+      At 10% return → doubles every 7.2 years (72 ÷ 10 = 7.2)
+      At 20% return → doubles every 3.6 years (72 ÷ 20 = 3.6)
+
+      This is why your rate of return matters SO much.
+      The difference between 6% and 10% sounds small.
+      Over 30 years, it's the difference between doubling twice and doubling four times.
+
+  - type: concept
+    content: |
+      The most powerful thing you can control: starting early.
+
+      Person A starts at 25, invests $200/month until 65. Total invested: $96,000.
+      At 8% annual growth → ends up with about $700,000.
+
+      Person B starts at 35, invests $200/month until 65. Total invested: $72,000.
+      At 8% annual growth → ends up with about $300,000.
+
+      Person A put in $24,000 MORE but ended up with $400,000 MORE.
+
+      Those extra 10 years at the beginning are worth more than all the
+      money invested in the last 30 years combined. That's how powerful
+      starting early is.
+
+quiz:
+  - question: "You invest $500 at 8% annually. After 2 years with compounding,
+      what do you have (approximately)?"
+    options:
+      - "$580"
+      - "$583"
+      - "$500"
+      - "$600"
+    correct: 1
+    explanation: "Year 1: $500 × 1.08 = $540. Year 2: $540 × 1.08 = $583.20.
+      Simple interest would give $580 — compound gives a bit more because
+      the interest from year 1 also earned interest in year 2."
+
+  - question: "Using the Rule of 72, how long does it take to double your money at 9% per year?"
+    options:
+      - "9 years"
+      - "8 years"
+      - "72 years"
+      - "6 years"
+    correct: 1
+    explanation: "72 ÷ 9 = 8. At 9% annual return, your money doubles roughly every 8 years.
+      The Rule of 72 is a quick mental math shortcut — it's not exact, but it's close enough."
+
+  - question: "Why does starting investing 10 years earlier make such a huge difference?"
+    options:
+      - "You get a government bonus for starting early"
+      - "Your money gets 10 extra years of earning money on its earnings — compound growth"
+      - "Stocks are cheaper when you're young"
+      - "You pay less tax if you start early"
+    correct: 1
+    explanation: "The first dollars you invest have the most time to compound.
+      Each extra year means your money earns returns, then those returns earn returns,
+      then THOSE returns earn returns. The longer the runway, the bigger the snowball."

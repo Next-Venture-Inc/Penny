@@ -1,0 +1,97 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "03-dollar-cost-averaging"
+title: "Dollar-cost averaging — invest a little, every time"
+description: "Why investing the same amount every month beats trying to time the market."
+estimated_minutes: 10
+tags: ["fundamentals", "strategy", "beginner"]
+
+steps:
+  - type: concept
+    content: |
+      Dollar-cost averaging (DCA) means investing the same fixed amount
+      on a regular schedule — no matter what the market is doing.
+
+      Example: $200 every month. Rain or shine. Market up or down.
+
+      You don't try to guess the perfect time to buy.
+      You just buy consistently. Every. Single. Month.
+
+      This is how most Canadians build wealth — through automatic TFSA or RRSP contributions.
+
+  - type: concept
+    content: |
+      Here's the cool part: when prices are low, your $200 buys MORE shares.
+      When prices are high, your $200 buys fewer shares.
+
+      This automatically means you buy more when things are cheap
+      and less when things are expensive.
+      You're doing smart investing without even trying.
+
+  - type: example
+    content: |
+      Month 1: Price is $10. You buy 20 shares with $200.
+      Month 2: Price drops to $5. You buy 40 shares with $200.
+      Month 3: Price goes back to $10. You buy 20 shares with $200.
+
+      Total invested: $600.
+      Total shares: 80.
+      Current value: 80 × $10 = $800.
+
+      Average cost per share you paid: $7.50.
+      Current price: $10.
+      Profit: $200 on $600 invested. That's 33%.
+
+      If you had tried to be smart and bought all $600 in Month 1 at $10,
+      you'd have 60 shares worth $600. Zero profit.
+      The person who just kept buying did better.
+
+  - type: callout
+    content: |
+      "Time in the market beats timing the market."
+
+      Professionals who try to buy at the perfect low and sell at the perfect high
+      are wrong more than half the time. They can't predict the future.
+
+      You can't either. Nobody can.
+      So instead of trying to guess, just keep investing.
+      Let time and consistency do the work.
+
+  - type: calculator
+    content: "See how DCA builds over time with different amounts and returns."
+    calculator: "dca"
+
+quiz:
+  - question: "What does dollar-cost averaging mean?"
+    options:
+      - "Buying only when the price hits your target"
+      - "Investing a fixed amount on a regular schedule, no matter the price"
+      - "Only investing when the market is going up"
+      - "Averaging the price of 10 different stocks"
+    correct: 1
+    explanation: "DCA means investing a fixed amount (like $200/month) on a set schedule.
+      You don't try to time the market — you just invest consistently and let
+      the math work in your favour."
+
+  - question: "When prices drop, what happens to your monthly DCA investment?"
+    options:
+      - "It buys fewer shares"
+      - "It automatically pauses"
+      - "It buys MORE shares for the same money"
+      - "Nothing — you lose the money"
+    correct: 2
+    explanation: "When prices fall, your fixed dollar amount buys more shares.
+      This is one of DCA's superpowers: you automatically buy more when things are on sale."
+
+  - question: "Why do most experts recommend DCA over trying to time the market?"
+    options:
+      - "Timing the market is illegal"
+      - "DCA is guaranteed to make money"
+      - "Nobody can predict the market consistently — DCA removes the guessing game"
+      - "DCA gives you a tax break"
+    correct: 2
+    explanation: "Even professional investors can't consistently predict when markets
+      will go up or down. DCA removes the need to guess — you just invest regularly
+      and let compound growth do the work over time."

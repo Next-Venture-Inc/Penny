@@ -1,0 +1,107 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "04-etfs-and-index-funds"
+title: "ETFs and index funds — the lazy genius move"
+description: "How to own hundreds of companies at once for almost no cost."
+estimated_minutes: 12
+tags: ["fundamentals", "etf", "index", "beginner"]
+
+steps:
+  - type: concept
+    content: |
+      An ETF (Exchange-Traded Fund) is a basket of investments
+      packaged into one thing you can buy like a single stock.
+
+      Instead of buying Apple, Google, and Amazon separately,
+      you buy one ETF that owns ALL of them at once.
+
+      Think of it like a pizza. Instead of buying 8 separate ingredients,
+      you just buy the whole pizza. Easier, cheaper, and you get everything.
+
+  - type: concept
+    content: |
+      An index fund is a specific kind of ETF that tracks a market index.
+
+      A market index is just a list of companies. Examples:
+      S&P 500 — the 500 biggest American companies
+      TSX 60 — the 60 biggest Canadian companies
+
+      When you buy an S&P 500 index fund, you own a tiny piece
+      of all 500 companies at once.
+      If the 500 companies grow, your investment grows.
+
+  - type: example
+    content: |
+      The power of index funds in numbers:
+
+      $10,000 invested in the S&P 500 in 1993 (using VFIAX):
+      By 2023 that was worth about $210,000.
+      That's a 21x return in 30 years.
+
+      Average professional fund manager vs. index fund over 20 years:
+      Less than 10% of professional managers beat the index long-term.
+      The other 90%+ did worse than just buying the whole market.
+
+      Why? Fees. Active funds charge 1–2% per year.
+      A typical index fund charges 0.03–0.2% per year.
+      That 1-2% difference destroys returns over decades.
+
+  - type: callout
+    content: |
+      Popular Canadian ETFs for beginners:
+
+      XEQT (iShares) — one ETF that owns stocks from 9,000+ companies worldwide
+      VEQT (Vanguard) — similar global diversification in one click
+      XIU.TO — tracks the 60 biggest Canadian companies
+
+      XEQT or VEQT are often called "one-fund portfolios."
+      Some people invest their entire savings in just one of these.
+      Simple. Cheap. Historically very effective.
+
+  - type: concept
+    content: |
+      Spreading your money around is one of the smartest things you can do.
+      Don't put all your eggs in one basket.
+
+      If you own 1 stock and it crashes, you lose everything in that position.
+      If you own an ETF with 500 companies and one crashes,
+      it barely moves the needle.
+
+      This is why ETFs are often the best starting point for new investors.
+      You get broad coverage of many companies with one simple purchase.
+
+quiz:
+  - question: "What is an ETF?"
+    options:
+      - "A single stock in one company"
+      - "A basket of investments you can buy like a stock"
+      - "A type of savings account"
+      - "A government bond"
+    correct: 1
+    explanation: "An ETF (Exchange-Traded Fund) is a bundle of many investments
+      packaged as one thing. You buy one share of the ETF and you own a tiny
+      piece of everything inside it — could be hundreds of companies."
+
+  - question: "Why do most professional fund managers fail to beat index funds long-term?"
+    options:
+      - "They make bad decisions on purpose"
+      - "Index funds cheat the system"
+      - "High fees eat into their returns — index funds charge much less"
+      - "Professional managers don't work hard enough"
+    correct: 2
+    explanation: "Active funds charge 1–2% per year in fees. Index funds charge
+      0.03–0.2%. That gap compounded over 20+ years means even a good manager
+      struggles to overcome the fee disadvantage. Most don't."
+
+  - question: "What does an S&P 500 index fund own?"
+    options:
+      - "500 random bonds chosen by a computer"
+      - "The top 500 Canadian companies"
+      - "Tiny pieces of the 500 biggest American companies"
+      - "Gold and real estate"
+    correct: 2
+    explanation: "The S&P 500 tracks the 500 largest publicly traded American companies.
+      An S&P 500 index fund buys tiny pieces of all 500, so your investment
+      moves with the overall US stock market."

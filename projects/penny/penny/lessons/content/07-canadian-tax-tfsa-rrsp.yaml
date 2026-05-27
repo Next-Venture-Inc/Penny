@@ -1,0 +1,137 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "07-canadian-tax-tfsa-rrsp"
+title: "Canadian taxes — TFSA, RRSP, and free money"
+description: "How Canada's tax-sheltered accounts let your money grow tax-free."
+estimated_minutes: 18
+tags: ["canada", "tax", "tfsa", "rrsp", "beginner"]
+
+steps:
+  - type: concept
+    content: |
+      Canada gives every adult two magical boxes for their money.
+      One is called a TFSA. The other is called an RRSP.
+
+      Anything you put inside these boxes — and any money it makes —
+      grows in a special way. Less tax. Sometimes zero tax.
+
+      Most Canadians don't use these boxes to their full potential.
+      That's leaving free money on the table.
+
+  - type: concept
+    content: |
+      TFSA — Tax-Free Savings Account.
+
+      Think of a TFSA like a magic box the government gives you.
+      Anything you put inside it and any money it makes is yours — 100% tax-free.
+
+      You earn money. You pay tax on it (normal). Then you put what's left into your TFSA.
+      From that point on: your money grows tax-free. Forever.
+      When you take it out: zero tax. Not a penny.
+
+      2025 contribution room: $7,000 this year.
+      Total room since 2009: up to $102,000 if you've never contributed.
+
+  - type: concept
+    content: |
+      RRSP — Registered Retirement Savings Plan.
+
+      The RRSP works differently. It's a "pay tax later" box.
+
+      You put money in: the government gives you a tax refund.
+      If you earn $80,000 and put $10,000 into your RRSP,
+      you only get taxed on $70,000. You get a refund.
+
+      Your money grows tax-free inside the RRSP.
+
+      When you take it out (usually in retirement): you pay tax then.
+      The idea: you earn MORE now (higher tax rate) and withdraw LESS later
+      (lower tax rate in retirement). Tax savings in the middle.
+
+      RRSP contribution room: 18% of your previous year's income, up to $31,560 (2025).
+
+  - type: concept
+    content: |
+      Which one should you use first?
+
+      If you're young and just starting: TFSA first. Always.
+
+      Why? Because:
+      - Tax-free growth on the way out is more powerful when you have decades
+      - You can take money out anytime and put it back next year (RRSP is permanent)
+      - No income required (RRSP needs earned income to get room)
+
+      Once your income is higher (over $50,000/year), consider maxing your RRSP too.
+      The tax refund becomes more valuable as your tax rate increases.
+
+  - type: concept
+    content: |
+      Capital gains tax — when you sell something for profit outside your TFSA/RRSP.
+
+      If you buy a stock for $1,000 and sell it for $1,500,
+      you made a $500 profit (called a capital gain).
+
+      In Canada (2025), you include 50% of that gain in your income.
+      So you'd add $250 to your taxable income for that year.
+
+      Key point: if that same trade happened INSIDE your TFSA or RRSP,
+      you pay zero tax on the gain.
+
+      This is why using your TFSA for investments (not just a savings account)
+      is one of the highest-impact financial decisions you can make.
+
+  - type: callout
+    content: |
+      Eligible dividends — a Canadian tax bonus.
+
+      When Canadian companies like TD or Royal Bank pay you dividends,
+      those are called "eligible dividends."
+
+      Canada gives you a special tax credit on eligible dividends.
+      The effective tax rate on eligible dividends is much lower than regular income.
+
+      At lower income levels, you can earn thousands of dollars in eligible dividends
+      and pay very little (sometimes zero) tax on them.
+
+      This is one reason many Canadians love Canadian bank and utility stocks.
+
+  - type: calculator
+    content: "See how much tax-free growth your TFSA could generate."
+    calculator: "tfsa"
+
+quiz:
+  - question: "You withdraw $50,000 from your TFSA after 20 years of growth.
+      How much tax do you pay?"
+    options:
+      - "The same as your income tax rate"
+      - "50% capital gains rate"
+      - "Zero — TFSA withdrawals are completely tax-free"
+      - "15% flat rate"
+    correct: 2
+    explanation: "TFSA withdrawals are 100% tax-free. The whole point of the TFSA is
+      that the government has already taken their cut before you contributed.
+      Everything inside grows and comes out tax-free."
+
+  - question: "How much TFSA contribution room do you accumulate each year (2025)?"
+    options:
+      - "$5,000"
+      - "$7,000"
+      - "$31,560"
+      - "18% of your income"
+    correct: 1
+    explanation: "In 2025, you get $7,000 in new TFSA room. If you've never contributed,
+      your total room going back to 2009 is $102,000. Unused room carries forward —
+      you can catch up anytime."
+
+  - question: "What is the main advantage of an RRSP contribution?"
+    options:
+      - "Your money grows faster inside an RRSP"
+      - "You get a tax refund now — reducing this year's tax bill"
+      - "You can withdraw it at any time, tax-free"
+      - "There are no fees inside an RRSP"
+    correct: 1
+    explanation: "RRSP contributions reduce your taxable income now, giving you a
+      tax refund. The ideal strategy: put money in when your tax rate is high,
+      take it out in retirement when your tax rate is lower."

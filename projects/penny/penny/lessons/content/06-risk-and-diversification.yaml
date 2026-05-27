@@ -1,0 +1,107 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "06-risk-and-diversification"
+title: "Risk and spreading your money around"
+description: "Why putting all your eggs in one basket is dangerous — and how to avoid it."
+estimated_minutes: 10
+tags: ["risk", "fundamentals", "beginner"]
+
+steps:
+  - type: concept
+    content: |
+      Don't put all your eggs in one basket.
+
+      This is the oldest rule in investing.
+      If you drop the basket, you lose every egg.
+      But if you carry eggs in 10 different baskets,
+      you'd have to drop ALL of them to lose everything.
+
+      Spreading your money across many different investments
+      is one of the smartest free things you can do.
+
+  - type: concept
+    content: |
+      Two kinds of risk:
+
+      1. Specific risk — the risk that ONE company or investment does badly.
+         Example: You only own Blackberry stock. Blackberry collapses. You lose everything.
+
+      2. Market risk — the risk that the WHOLE market does badly.
+         Example: 2008 financial crisis. Almost every stock dropped.
+
+      Spreading your money around eliminates specific risk almost completely.
+      You can't eliminate market risk, but it always recovers historically.
+
+  - type: example
+    content: |
+      If you had put all your money into Blackberry in 2011,
+      you'd have lost over 95% of your investment by 2016.
+
+      If instead you had spread it across 500 companies via an index fund,
+      the same time period would have shown strong positive returns —
+      even though Blackberry was in the index and crashed.
+
+      That one disaster barely moved the needle when spread across 500 companies.
+      That's the power of spreading your money around.
+
+  - type: concept
+    content: |
+      How to spread your money around:
+
+      Across companies — own many, not just one
+      Across countries — Canadian + US + global stocks
+      Across types — stocks + bonds + real estate
+
+      The simplest way to do all of this at once? Buy a global ETF like XEQT or VEQT.
+      One purchase. Instant access to 9,000+ companies worldwide.
+
+  - type: callout
+    content: |
+      Your risk tolerance depends on your timeline.
+
+      If you need the money in 1–2 years: keep most of it safe (savings account, GICs).
+      Stock prices jump up and down a lot in the short term.
+
+      If you don't need it for 10+ years: you can handle more up-and-down.
+      You have time to ride out any dips and wait for recovery.
+
+      Knowing when you need your money is the first step
+      to knowing how much risk is right for you.
+
+quiz:
+  - question: "What does spreading your money around mean for investing?"
+    options:
+      - "Keeping money in many different bank accounts"
+      - "Owning many different investments so one bad one doesn't ruin you"
+      - "Trading stocks very frequently"
+      - "Buying only safe investments like bonds"
+    correct: 1
+    explanation: "Spreading your money means owning many different investments.
+      If one fails, the others cushion the blow. This is the core idea behind ETFs —
+      you own hundreds of companies, so no single failure wrecks you."
+
+  - question: "What type of risk does spreading your money around eliminate?"
+    options:
+      - "Market risk — the risk the whole economy crashes"
+      - "Inflation risk"
+      - "Specific risk — the risk that one company fails"
+      - "Currency risk"
+    correct: 2
+    explanation: "Spreading your money around eliminates specific risk — the danger
+      that one particular company does badly. It doesn't protect against market-wide
+      crashes, but those have always recovered historically."
+
+  - question: "You need your money in 6 months for a house down payment.
+      Where should it be?"
+    options:
+      - "100% in stocks for maximum growth"
+      - "In a high-interest savings account or GIC — not in stocks"
+      - "In cryptocurrency for fast returns"
+      - "Buried in your backyard"
+    correct: 1
+    explanation: "Stocks go up AND down in the short term. If you need money in 6 months,
+      a market drop could mean selling at a loss. Short-term money should be in safe,
+      stable places like high-interest savings accounts or GICs.
+      Stocks are for money you won't need for years."

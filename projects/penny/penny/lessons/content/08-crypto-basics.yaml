@@ -1,0 +1,112 @@
+# Penny by Next Venture — nextventure.io/penny
+# Licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+# If you use or adapt this lesson, credit Penny by Next Venture and share alike.
+
+id: "08-crypto-basics"
+title: "Crypto basics — what it is, and what it isn't"
+description: "A plain-English guide to cryptocurrency — the hype, the risk, and the reality."
+estimated_minutes: 14
+tags: ["crypto", "bitcoin", "beginner", "risk"]
+
+steps:
+  - type: concept
+    content: |
+      Cryptocurrency is digital money that no government or bank controls.
+
+      Regular money (like Canadian dollars) is managed by the Bank of Canada.
+      They can print more. They control the supply.
+
+      Bitcoin (the first and most famous crypto) has a fixed supply of 21 million coins.
+      Nobody controls it. Rules are enforced by software running on thousands of computers.
+
+      Whether that's better or worse than regular money is a debate with no clear answer.
+
+  - type: concept
+    content: |
+      How does Bitcoin actually work?
+
+      Every transaction is recorded in a public list called a blockchain.
+      Think of a blockchain like a shared Google Doc that everyone can see,
+      but nobody can secretly edit.
+
+      When you send Bitcoin to someone:
+      - Thousands of computers check that the transaction is valid
+      - It gets added to the public list
+      - Nobody can fake it or take it back
+
+      No bank needed. No middleman. Just math and computers.
+
+  - type: concept
+    content: |
+      Crypto prices jump up and down wildly. More than almost any other investment.
+
+      Bitcoin went from $69,000 in November 2021 to $16,000 in December 2022.
+      That's a 77% drop. In one year.
+
+      Then it went from $16,000 in 2022 back above $100,000 in 2024.
+      That's a 500%+ rise.
+
+      If you invested at the peak and needed to sell at the bottom, you lost 77%.
+      If you stayed patient, you eventually recovered and more.
+
+      This is why crypto is considered very high risk. Not for money you can't afford to lose.
+
+  - type: callout
+    content: |
+      The honest truth about crypto:
+
+      Some people made life-changing money. Bitcoin early buyers (pre-2013) did.
+      Some people lost everything. People who bought the 2021 peak and panic-sold did.
+
+      There are thousands of cryptocurrencies. Most of them are worthless or scams.
+      Bitcoin and Ethereum have the longest track records and widest use.
+
+      Most financial experts recommend: if you invest in crypto at all,
+      limit it to 1–5% of your total investments.
+      Something you could afford to see go to zero without it wrecking you.
+
+  - type: concept
+    content: |
+      In Canada, crypto is treated as a commodity for tax purposes.
+
+      When you sell crypto for more than you paid, that's a capital gain.
+      Same rules as stocks — 50% of your profit is added to your taxable income.
+
+      You CANNOT put crypto directly in a TFSA.
+      But you CAN buy crypto ETFs (like BTCC.B or EBIT.TO) inside a TFSA.
+      They hold actual Bitcoin for you. Tax-free gains inside your TFSA.
+
+quiz:
+  - question: "What is the main thing that makes Bitcoin different from regular dollars?"
+    options:
+      - "Bitcoin is backed by gold"
+      - "Bitcoin is only for online shopping"
+      - "No government or central bank controls Bitcoin — it runs on software"
+      - "Bitcoin is issued by Amazon"
+    correct: 2
+    explanation: "Bitcoin is decentralized — no single authority controls it.
+      Rules are enforced by software running on thousands of computers worldwide.
+      This is the core difference from government-issued currencies."
+
+  - question: "Bitcoin dropped 77% in 2022 and then recovered 500%+ by 2024.
+      What does this tell you about crypto?"
+    options:
+      - "Crypto is a safe long-term investment"
+      - "Crypto is illegal in Canada"
+      - "Crypto prices swing wildly — very high risk, especially short term"
+      - "Everyone who invested in 2022 made money"
+    correct: 2
+    explanation: "Crypto is extremely volatile — prices can drop or rise dramatically
+      in short periods. People who bought in 2021 and sold in 2022 lost most of their
+      money. This is why experts suggest only investing what you can afford to lose entirely."
+
+  - question: "How is crypto taxed in Canada when you sell at a profit?"
+    options:
+      - "No tax — it's digital so CRA can't track it"
+      - "50% of the profit is added to your taxable income (capital gains)"
+      - "100% of the profit is taxed"
+      - "Flat 15% crypto tax"
+    correct: 1
+    explanation: "In Canada, crypto is taxed as a capital gain. You include 50% of your
+      profit in your taxable income for that year. The CRA does track crypto — exchanges
+      report to them and you are legally required to report gains on your taxes."
