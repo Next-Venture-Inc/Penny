@@ -19,7 +19,7 @@ class LessonListScreen(Screen):
         items = [
             ListItem(
                 Static(f"  {lesson.title}  (~{lesson.estimated_minutes} min)"),
-                id=lesson.id,
+                id=f"l-{lesson.id}",
             )
             for lesson in lessons
         ]
@@ -28,8 +28,9 @@ class LessonListScreen(Screen):
         yield Footer()
 
     def on_list_view_selected(self, event: ListView.Selected) -> None:
-        lesson_id = event.item.id
-        if lesson_id:
+        raw_id = event.item.id
+        if raw_id and raw_id.startswith("l-"):
+            lesson_id = raw_id[len("l-"):]
             self.app.push_screen(LessonPlayerScreen(lesson_id=lesson_id))
 
 
